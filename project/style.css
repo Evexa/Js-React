@@ -1,3 +1,9 @@
 body {
     background-color: #5cf2d4;
 }
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
